@@ -35,7 +35,7 @@ This setup could produce burns of the cutaneous fabric (the tissue located betwe
 skin and muscle) by overcharging it on tension. Therefore, we modified this signal by
 sending a negative impulse after each positive impulse to lower the tensions in muscles,
 shaping the signal like this:
-![alt text]
+![alt text](https://github.com/guiduca/BlogPost/blob/master/impulseNeg.png "Image Impulse")
 These modification led us to change the whole device by replacing the actual
 firmware with a brand new microcontroller.
 After studying several technologies, we ended up picking an “Arduino Due”, a
