@@ -30,7 +30,7 @@ correct what couldn’t fit into the European medical norms.
 After receiving a prototype, an hardware engineer studied the device and find out that
 the original flow of impulses could be dangerous for the patient. The Russian device actually
 used to send modular charged impulses regularly.
-![alt text] (https://github.com/guiduca/BlogPost/blob/master/impulsePos.png "Image")
+![alt text](https://github.com/guiduca/BlogPost/blob/master/impulsePos.png "Image Impulse")
 This setup could produce burns of the cutaneous fabric (the tissue located between
 skin and muscle) by overcharging it on tension. Therefore, we modified this signal by
 sending a negative impulse after each positive impulse to lower the tensions in muscles,
