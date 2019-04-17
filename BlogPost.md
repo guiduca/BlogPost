@@ -54,6 +54,7 @@ One specific constraint to microcontroller is that the program runs in an infini
 meaning that once the program is launched, you cannot stop it. It is as though the program
 is constantly in a “listening mode,” waiting for any analogue input that could come at any
 time. It doesn’t have the option to end like other programs usually do.
+![alt text](https://github.com/guiduca/BlogPost/blob/master/Diag1.png "Image Impulse")
 There is also a “communication input” on the card where any communication device,
 a bluetooth receiver for example, can be plugged to feed the microcontroller with
 information. This input can receive more details than any switch could give. This comes in
@@ -81,6 +82,7 @@ function, we decided to setup 3 different modes to manage different uses of the 
     Test Mode) and the time of the session (20 minutes by default)
     It’s easily possible to change the device’s state and impulse strength through the
 bluetooth receiver connected to the card.
+![alt text](https://github.com/guiduca/BlogPost/blob/master/Diag2.png "Image Impulse")
 In the end, the prototype have been tested in a local clinic on a patient who’ve been partially
 paralyzed on half of his body after a stroke. The device successfully worked and has allowed
 to foresee much more possibilities in improving patients’ life.
